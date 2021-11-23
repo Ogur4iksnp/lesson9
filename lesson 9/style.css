@@ -1,0 +1,93 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: url(/img/back.png) transparent no-repeat;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    background-size: cover;
+}
+.cont{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.top{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     padding-top: 40px;
+}
+ul{
+    list-style-type: none;
+    color:  white;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.start{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+a{
+    text-decoration: none;
+    color:  white;
+
+}
+li{
+    margin-left: 50px;
+}
+.welcum{
+    text-align: center;
+    width: 100%;
+    color: white;
+    margin-top: 260px;
+}
+h1{
+    font-size: 48px;
+}
+.fav{
+    margin-top: 30px;
+}
+.button{
+    text-align: center;
+    margin-top: 70px;
+}
+.button_r{
+    color: white;
+    padding: 10px;
+    border: solid white  3px;
+    font-size: 16px;
+}
+.services{
+    width: 100%;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 90px;
+}
+hr{
+margin:0 auto;
+    width: 50px;
+    margin-top: 30px;
+    color: black;
+    height: 2px;
+    background-color: black;
+}
+.wewe{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+
+
